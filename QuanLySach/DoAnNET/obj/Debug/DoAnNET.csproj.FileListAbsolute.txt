@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\DoAnNET.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.fLogin.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.fTableManage.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\DoAnNET.Properties.Resources.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmDangMuon.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmDaTra.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmDoiMatKhau.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmSachDaTra.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmQLPhieuMuon.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmQLPhieuTra.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmQLSach.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmQLThanhVien.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmSachDangMuon.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmThanhVien.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\QuanLyThuVien.ucFrmTimKiemSach.resources
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\DoAnNET.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DoAnNET\DoAnNET\obj\Debug\DoAnNET.csproj.CoreCompileInputs.cache

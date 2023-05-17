@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\DoAnNET\BUS\bin\Debug\BUS.dll
+C:\Users\PC\source\repos\DoAnNET\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\source\repos\DoAnNET\BUS\bin\Debug\DAO.dll
+C:\Users\PC\source\repos\DoAnNET\BUS\bin\Debug\DTO.dll
+C:\Users\PC\source\repos\DoAnNET\BUS\bin\Debug\DAO.pdb
+C:\Users\PC\source\repos\DoAnNET\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\source\repos\DoAnNET\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DoAnNET\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DoAnNET\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\source\repos\DoAnNET\BUS\obj\Debug\BUS.dll
+C:\Users\PC\source\repos\DoAnNET\BUS\obj\Debug\BUS.pdb

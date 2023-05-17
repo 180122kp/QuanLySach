@@ -1,0 +1,207 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAnNET", "DoAnNET\DoAnNET.csproj", "{3088AF6D-CAF7-4D1E-AAF6-DC17744D6DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{6D2E9799-1D3B-4E5D-B45D-23B2B40DE572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{8F05AE79-7304-4413-B93E-BE0ED6300181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{D61B33CB-0DBF-4F7A-89EC-3BBA2025B7AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bin", "bin", "{107E9F3C-0CAD-4BEE-9FED-2BFC1AF94E05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{6F352D1D-F712-4A77-A13A-D72E5FD0EE8C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\Book_Library-256_400x400.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\Book_Library-256_400x400.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\borrow.gif = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\borrow.gif
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\child.jpg = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\child.jpg
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\iconlogout.jpg = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\iconlogout.jpg
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\lock.jpg = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\lock.jpg
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\register_log_in_user_login_session_authorize_open_account_access_key-512.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\register_log_in_user_login_session_authorize_open_account_access_key-512.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\search_book-512.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\search_book-512.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\user-icon--16121-large[1].png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\user-icon--16121-large[1].png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\user_access-512.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\user_access-512.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\user_group_man_people_users_male-512.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\user_group_man_people_users_male-512.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\webicons_RPL2-05.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Resources\webicons_RPL2-05.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{AD04F537-6D97-41E2-9319-5215F5D3C1F8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.2.Core.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.2.Core.xml = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.2.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.2.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.2.xml = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.Utils.v14.2.xml
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraBars.v14.2.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraBars.v14.2.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraBars.v14.2.xml = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraBars.v14.2.xml
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.2.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.2.xml = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraGrid.v14.2.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraGrid.v14.2.xml = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraLayout.v14.2.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraLayout.v14.2.xml = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraNavBar.v14.2.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraNavBar.v14.2.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraNavBar.v14.2.xml = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraNavBar.v14.2.xml
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraPrinting.v14.2.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraPrinting.v14.2.xml = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.exe = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.exe
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.pdb = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.pdb
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.vshost.exe = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.vshost.exe
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.vshost.exe.config = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.vshost.exe.config
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.vshost.exe.manifest = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\DoAnNET.vshost.exe.manifest
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "de", "de", "{FF8AFF98-90FC-43A2-B988-3DC6FBD1579C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Data.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "es", "es", "{904B1315-6AEB-454A-A267-486C5793C358}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Data.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ICon", "ICon", "{C681003E-C43F-4938-A2D8-F9C1B2484DA8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\Books-icon.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\Books-icon.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\MuonSach.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\MuonSach.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\policy-icon.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\policy-icon.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\Search-icon (1).png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\Search-icon (1).png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\Search-icon.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\Search-icon.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\user-info-icon.png = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\user-info-icon.png
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\user.jpg = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ICon\user.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ja", "ja", "{0247AD3F-714E-4894-8B1F-814539A5DDEC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ru", "ru", "{E9EE3946-8B07-4701-9827-124C8F9D0494}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{895AF7FA-58A2-4406-9661-6551E4125B6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "obj", "obj", "{EF2B4238-C9F6-40D1-840E-E39E2C6DB3A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{D3CB0F51-070C-4E4F-89EE-1CEE3640D61C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DesignTimeResolveAssemblyReferences.cache = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.csproj.FileListAbsolute.txt = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.csproj.FileListAbsolute.txt
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.csproj.GenerateResource.Cache = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.csproj.GenerateResource.Cache
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.csprojResolveAssemblyReference.cache = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.csprojResolveAssemblyReference.cache
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.exe = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.exe
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.exe.licenses = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.exe.licenses
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.fLogin.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.fLogin.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.fTableManage.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.fTableManage.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.pdb = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.pdb
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.Properties.Resources.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.Properties.Resources.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmDangMuon.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmDangMuon.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmDaTra.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmDaTra.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmDoiMatKhau.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmDoiMatKhau.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmQLPhieuMuon.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmQLPhieuMuon.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmQLPhieuTra.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmQLPhieuTra.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmQLSach.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmQLSach.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmQLThanhVien.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmQLThanhVien.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmSachDangMuon.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmSachDangMuon.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmSachDaTra.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmSachDaTra.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmThanhVien.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmThanhVien.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmTimKiemSach.resources = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\DoAnNET.ucFrmTimKiemSach.resources
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TemPE", "TemPE", "{1E1341BC-4BA8-4138-9472-95D9C67A706A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Properties", "Properties", "{EDA6A3EC-3DB1-495A-87BF-98C7B534BA39}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\AssemblyInfo.cs = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\AssemblyInfo.cs
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\licenses.licx = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\licenses.licx
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\Resources.Designer.cs = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\Resources.Designer.cs
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\Resources.resx = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\Resources.resx
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\Settings.Designer.cs = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\Settings.Designer.cs
+		..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\Settings.settings = ..\..\..\OneDrive\Máy tính\QuanLyThuVien\QuanLyThuVien\Properties\Settings.settings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3088AF6D-CAF7-4D1E-AAF6-DC17744D6DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3088AF6D-CAF7-4D1E-AAF6-DC17744D6DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3088AF6D-CAF7-4D1E-AAF6-DC17744D6DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3088AF6D-CAF7-4D1E-AAF6-DC17744D6DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2E9799-1D3B-4E5D-B45D-23B2B40DE572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2E9799-1D3B-4E5D-B45D-23B2B40DE572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2E9799-1D3B-4E5D-B45D-23B2B40DE572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2E9799-1D3B-4E5D-B45D-23B2B40DE572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F05AE79-7304-4413-B93E-BE0ED6300181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F05AE79-7304-4413-B93E-BE0ED6300181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F05AE79-7304-4413-B93E-BE0ED6300181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F05AE79-7304-4413-B93E-BE0ED6300181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61B33CB-0DBF-4F7A-89EC-3BBA2025B7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61B33CB-0DBF-4F7A-89EC-3BBA2025B7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61B33CB-0DBF-4F7A-89EC-3BBA2025B7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61B33CB-0DBF-4F7A-89EC-3BBA2025B7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD04F537-6D97-41E2-9319-5215F5D3C1F8} = {107E9F3C-0CAD-4BEE-9FED-2BFC1AF94E05}
+		{FF8AFF98-90FC-43A2-B988-3DC6FBD1579C} = {AD04F537-6D97-41E2-9319-5215F5D3C1F8}
+		{904B1315-6AEB-454A-A267-486C5793C358} = {AD04F537-6D97-41E2-9319-5215F5D3C1F8}
+		{C681003E-C43F-4938-A2D8-F9C1B2484DA8} = {AD04F537-6D97-41E2-9319-5215F5D3C1F8}
+		{0247AD3F-714E-4894-8B1F-814539A5DDEC} = {AD04F537-6D97-41E2-9319-5215F5D3C1F8}
+		{E9EE3946-8B07-4701-9827-124C8F9D0494} = {AD04F537-6D97-41E2-9319-5215F5D3C1F8}
+		{895AF7FA-58A2-4406-9661-6551E4125B6E} = {107E9F3C-0CAD-4BEE-9FED-2BFC1AF94E05}
+		{D3CB0F51-070C-4E4F-89EE-1CEE3640D61C} = {EF2B4238-C9F6-40D1-840E-E39E2C6DB3A1}
+		{1E1341BC-4BA8-4138-9472-95D9C67A706A} = {D3CB0F51-070C-4E4F-89EE-1CEE3640D61C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F978E100-7EBC-4F60-8247-0FE1CFDEDB5F}
+	EndGlobalSection
+EndGlobal
